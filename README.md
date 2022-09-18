@@ -3,9 +3,9 @@
 <h1 align=center>welcome to my profile</h1>
 <h2 align=center>who am i?</h2>
 <h3 align=center>junior developer from Moscow, Russia</h3>
----
+
 <h2 align=center>what am i doing?</h2>
 <h3 align=center>at this moment i'm developing telegram bots, which is my job</h3>
----
+
 <h2 align=center>contact me</h2>
 <h3 align=center><a href="https://t.me/echoscomplex" target="_blank">Telegram</a></h3>
