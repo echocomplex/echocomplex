@@ -48,7 +48,6 @@ class Career:
 ```
 
 <h1 align=center>recent projects</h1>
-
 ---
 
 <h2 align=center><a href="https://t.me/tg_main_project">main project</a></h2>
