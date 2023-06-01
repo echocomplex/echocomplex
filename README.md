@@ -1,4 +1,4 @@
-<h1 align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=51A3F7&width=435&lines=welcome+to+my+profile" alt="Typing SVG" /></a></h1>
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=51A3F7&center=true&vCenter=true&width=435&lines=welcome+to+my+profile"></h1>
 
 ```C++
 // С++
@@ -47,7 +47,7 @@ class Career:
         self.Telegram_Channel = "https://t.me/echoscode"
 ```
 
-<h1 align=center>recent projects</h1>
+<h5 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=51A3F7&center=true&vCenter=true&width=435&lines=recent+projects"></h5>
 
 ---
 
