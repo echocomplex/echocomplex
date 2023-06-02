@@ -47,9 +47,6 @@ class Career:
         self.Telegram_Channel = "https://t.me/echoscode"
 ```
 
-<h5 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=51A3F7&center=true&vCenter=true&width=435&lines=recent+projects"></h5>
-
 ---
 
-<h2 align=center><a href="https://t.me/tg_main_project">main project</a></h2>
-<h5 align=center>A large set of useful Telegram bots. Among them: <a href="https://t.me/SearcherMainBot">Searcher</a>, <a href="https://t.me/ProtectYouMainBot">Protect You</a>, <a href="https://t.me/RandomizerMainBot">Randomizer</a>, <a href="https://t.me/ParseUniversitiesMainBot">Parse Universities</a>, <a href="https://t.me/OnlyVoxMainBot">OnlyVox</a>, <a href="https://t.me/SCHunterMainBot">SCHunter</a>, <a href="https://t.me/ConveditorMainBot">Conveditor</a>, <a href="https://t.me/AnonPhenomenonMainBot">AnonPhenomenon</a>. Info bot <a href="https://t.me/maineyeechobot">here</a>.</h5>
+<h5 align=center><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=51A3F7&center=true&vCenter=true&width=435&lines=recent+projects"></h5>
