@@ -6,8 +6,6 @@
 #include <string>
 #include <vector>
 
-using namespace std;
-
 class Private {
 private:
     string realname = "UNKNOWN";
