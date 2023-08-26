@@ -35,7 +35,7 @@ public class Coding {
 ```Python
 # Python
 class Career:
-    def __init__(self):
+    def __init__ (self) -> None:
         self.profession: str = "IT Information Security Officer"
         self.OS: list = ["macOS Monterey", "Windows 10", "Arch Linux"]
         self.CPP_IDE: list = ["CLion", "Visual Studio Code", "Visual Studio"]
