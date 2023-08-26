@@ -36,13 +36,13 @@ public class Coding {
 # Python
 class Career:
     def __init__ (self) -> None:
-        self.profession: str = "IT Information Security Officer"
-        self.OS: list = ["macOS Monterey", "Windows 10", "Arch Linux"]
-        self.CPP_IDE: list = ["CLion", "Visual Studio Code", "Visual Studio"]
-        self.Java_IDE: str = "IntelliJ IDEA 2023"
-        self.Python_IDE: str = "PyCharm 2023"
-        self.HTML_CSS_IDE: str = "Visual Studio Code"
-        self.Telegram_Channel: str = "https://t.me/echoscode"
+        self.profession: str = "IT Information Security Officer";
+        self.OS: list = ["macOS Monterey", "Windows 10", "Arch Linux"];
+        self.CPP_IDE: list = ["CLion", "Visual Studio Code", "Visual Studio"];
+        self.Java_IDE: str = "IntelliJ IDEA 2023";
+        self.Python_IDE: str = "PyCharm 2023";
+        self.HTML_CSS_IDE: str = "Visual Studio Code";
+        self.Telegram_Channel: str = "https://t.me/echoscode";
 ```
 
 ---
