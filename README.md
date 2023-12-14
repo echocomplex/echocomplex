@@ -8,11 +8,11 @@
 
 class Private {
 private:
-    string realname = "UNKNOWN";
-    vector <string> creativenames {"echo complex", "Alice White-Nouthsorth"};
+    std::string realname = "UNKNOWN";
+    std::vector <std::string> creativenames {"echo complex", "Alice White-Nouthsorth"};
     int age = 404;
-    string location = "UNKNOWN";
-    string telegram = "https://t.me/echoscomplex"; // ONLY Q/A
+    std::string location = "UNKNOWN";
+    std::string telegram = "https://t.me/echoscomplex"; // ONLY Q/A
 };
 ```
 
