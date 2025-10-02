@@ -38,7 +38,7 @@ public class Coding {
 
 class Career:
     def __init__ (self) -> None:
-        self.profession: tuple = ("IT Information Security Officer", "Nutfit Founder & CEO", "C++ Middle dev", "Python Middle dev.);
+        self.profession: tuple = ("IT Information Security Officer", "Nutfit Founder & CEO", "C++ Middle dev.", "Python Middle dev.");
         self.OS: tuple = ("macOS Monterey", "Windows 10", "Arch Linux", "Kali Linux");
         self.CPP_IDE: tuple = ("CLion", "Visual Studio Code", "Visual Studio");
         self.Java_IDE: str = "IntelliJ IDEA 2023";
