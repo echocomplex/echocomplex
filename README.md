@@ -9,7 +9,6 @@
 
 class Private {
 private:
-    std::string realname = "UNKNOWN";
     std::vector <std::string> creativenames {"echo complex", "Alice White-Nouthsorth", "perfectly imperfect"};
     int age = 20;
     std::string location = "Moscow, Russia";
