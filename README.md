@@ -10,10 +10,10 @@
 class Private {
 private:
     std::string realname = "UNKNOWN";
-    std::vector <std::string> creativenames {"echo complex", "Alice White-Nouthsorth"};
-    int age = 404;
-    std::string location = "UNKNOWN";
-    std::string telegram = "https://t.me/echoscomplex"; // ONLY Q/A
+    std::vector <std::string> creativenames {"echo complex", "Alice White-Nouthsorth", "perfectly imperfect"};
+    int age = 20;
+    std::string location = "Moscow, Russia";
+    std::string telegram = "https://t.me/pfximperfect"; // ONLY Q/A
 };
 ```
 
